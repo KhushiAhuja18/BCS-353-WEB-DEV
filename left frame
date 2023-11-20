@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>left frame</title>
+</head>
+<body>
+<h2>courses</h2>
+<ul>
+<li><a href="catalogue.html" target="main_frame">COMPUTER SCIENCE</a></li>
+<li><a href="catalogue.html" target="main_frame">ELECTRONICS</a></li>
+<li><a href="catalogue.html" target="main_frame">AI AND ML</a></li>
+<li><a href="catalogue.html" target="main_frame">DATA SCIENCE</a></li>
+</ul>
+</body>
+</html>
