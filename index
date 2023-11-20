@@ -1,0 +1,11 @@
+<HTML>
+<HEAD>
+<TITLE>BOOKS FOR STUDENTS</TITLE></head>
+<frameset rows="40% ,70%">
+    <frame src="C:\Users\offline\Desktop\khushi\top frame.html"name="top frame">
+     <frameset cols="20%,80%">
+         <frame src="C:\Users\offline\Desktop\khushi\leftframe.html" name="left frame">
+         <frame src="C:\Users\offline\Desktop\khushi\WELCOME.HTML" name="main frame">0.
+      </frameset>
+ </frameset>
+</html>
